@@ -2,19 +2,17 @@
 
 # Bestbuy.com
 
-> [Best Buy](https://www.bestbuy.com/) is a provider of consumer technology products and services. The Company offers a range of merchandise and services to its customers, including computing and mobile phones, consumer electronics, appliances, entertainment and other products. Its services include consultation, delivery, design, health-related services, installation, memberships, repair, set-up, technical support, and warranty-related services.
+> [Best Buy](https://www.bestbuy.com/) is a provider of consumer technology products and services. The Company offers a range of merchandise and services to its customers, including computing and mobile phones, consumer electronics, appliances, entertainment, and other products. Its services include consultation, delivery, design, health-related services, installation, memberships, repair, set-up, technical support, and warranty-related services.
 
-> Cloned BestBuy.com website during the construct week at [Masai School](https://masaischool.com/). Completed the project in five days with a team of six members and implemented the maximum user centric functionality.
+> Cloned BestBuy.com website during the summer Completed the project in five days with a team of six members and implemented the maximum user-centric functionality.
 
 ## Overview of our work 👉 [Click here](https://bestbuy-in.netlify.app/)
 
-## Blog Post 👉 [Click here](https://medium.com/@mandal678/best-buy-clone-37561f1341cd)
-
 # Features
 
-- Collection of wide range of products
-- Login with user details stored in localstorage
-- User can add products to cart 🛒 and can initiate order
+- Collection of a wide range of products
+- Login with user details stored in local storage
+- User can add products to cart 🛒 and can initiate the order
 
 # Technology used 
 
@@ -28,32 +26,32 @@
 
 # Lessons Learned
 
-- Gain excessive knowledge on application of HTML, CSS & JS.
-- Got to know how to collabrate with team members.
+- Gain excessive knowledge of applications of HTML, CSS & JS.
+- Got to know how to collaborate with team members.
 - Enjoyed the process of learning and creating the product.
 
 # Overview of our work
 
 ## **Home Page**
-*This is Landing page of our website*
+*This is the Landing page of our website*
 ![Screenshot](https://www.linkpicture.com/q/BB3.png)
 
 ## **SignUp Page** 
-*SignUp to register with our website*
+*Signup to register with our website*
 *All details of the users will be stored in the local storage.*
 ![Screenshot](https://i.postimg.cc/HkXkDd52/BB8.png)
 
 
 ## **Login Page** 
-*In order to continue shopping login with user details*
+*In order to continue shopping log in with user details*
 ![Screenshot](https://www.linkpicture.com/q/BB2.png)
 
 ## **Product Page** 
-*User can select from variety of products and can filter or sort accordingly*
+*User can select from a variety of products and can filter or sort accordingly*
 ![Screenshot](https://www.linkpicture.com/q/BB4.png)
 
 ## **Cart Page**
-*User can increase or decrease the quantity of products*
+*User can increase or decrease the number of products*
 ![Screenshot](https://www.linkpicture.com/q/BB5.png)
 
 ## **Checkout Page**
@@ -61,7 +59,7 @@
 ![Screenshot](https://www.linkpicture.com/q/BB6.png)
 
 ## **Payment's Page**
-*To place order enter with card details [Card No - 1234567812345678] and [OTP - 1234]*
+*To place an order enter card details [Card No - 1234567812345678] and [OTP - 1234]*
 ![Screenshot](https://www.linkpicture.com/q/BB7.png)
 
 # Contributors
@@ -72,7 +70,7 @@ Worked on All appliances, Phones, Laptop page
 
 #### Rohan Mourya
 > Github: [rohan209547mourya](https://github.com/rohan209547mourya)
-Worked on Footer, Login, Accounts page
+Worked on Footer, Login, and Accounts page
 
 #### Mayuri Samanta
 > Github: [mayurisamanta](https://github.com/mayurisamanta)
@@ -82,10 +80,7 @@ Worked on Navbar, Homepage
 >Github: [Anurag-shekawat](https://github.com/Anurag-shekawat)
 Worked on Checkout, Payment page
 
-#### Sadanand
+#### Sadanand Mare
 >Github: [Sadanand012](https://github.com/Sadanand012)
-Worked on Cart page
+Worked on the Cart page and Deal-of-the-day page
 
-#### Siddharth Sharma
->Github: [is1dd](https://github.com/is1dd)
-Worked on Deal-of-the-day page 
